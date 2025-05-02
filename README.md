@@ -1,2 +1,2 @@
-# learningCodeRepository1
+# learningCodeRepository
 A self-studying code repository
